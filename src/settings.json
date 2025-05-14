@@ -25,12 +25,12 @@
       "items": [
         {
           "name": "OpenAI",
-          "desc": "Openai chat",
+          "desc": "/ai/openai?text=",
           "path": "/ai/openai?text="
         }, 
         {
           "name": "Deepseek",
-          "desc": "Deepseek ai",
+          "desc": "/ai/deepseek?text=",
           "path": "/ai/deepseek?text="
         }        
       ]
@@ -40,19 +40,19 @@
       "items": [
         {
           "name": "Create Payment",
-          "desc": "Create qris payment", 
+          "desc": "/orderkuota/createpayment?apikey=&amount=&codeqr=", 
           "path": "/orderkuota/createpayment?apikey=&amount=&codeqr=", 
           "innerDesc": "Buy apikey >> wa.me/6283170213967"
         },
         {
           "name": "Cek Status",
-          "desc": "Cek status payment", 
+          "desc": "/orderkuota/cekstatus?apikey=&merchant=&keyorkut=", 
           "path": "/orderkuota/cekstatus?apikey=&merchant=&keyorkut=", 
           "innerDesc": "Buy apikey >> wa.me/6283170213967"          
         },
         {
           "name": "Cek Saldo",
-          "desc": "Cek Saldo Orkut", 
+          "desc": "/orderkuota/ceksaldo?apikey=&merchant=&keyorkut=", 
           "path": "/orderkuota/ceksaldo?apikey=&merchant=&keyorkut=", 
           "innerDesc": "Buy apikey >> wa.me/6283170213967"
         }
