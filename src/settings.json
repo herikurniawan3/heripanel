@@ -1,19 +1,15 @@
 {
-  "name": "SkyzBotz Api",
+  "name": "Heri Panel Api",
   "version": "v3.0.0",
   "description": "Simple and easy to use API for WhatsApp Bot feature.",
   "header": {
     "status": "Active!"
   },
   "apiSettings": {
-    "creator": "KyzzBotz", 
+    "creator": "Heri Panel", 
     "apikey": ["heripanel"]
   },
   "links": [
-    {
-      "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
-    },
     {
       "name": "Contact Me",
       "url": "https://whatsapp.com/channel/0029VaYoztA47XeAhs447Y1s"
