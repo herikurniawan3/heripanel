@@ -38,19 +38,19 @@
           "name": "Create Payment",
           "desc": "/orderkuota/createpayment?apikey=&amount=&codeqr=", 
           "path": "/orderkuota/createpayment?apikey=&amount=&codeqr=", 
-          "innerDesc": "Buy apikey >> wa.me/6283170213967"
+          "innerDesc": "Buy apikey >> wa.me/6289514579847"
         },
         {
           "name": "Cek Status",
           "desc": "/orderkuota/cekstatus?apikey=&merchant=&keyorkut=", 
           "path": "/orderkuota/cekstatus?apikey=&merchant=&keyorkut=", 
-          "innerDesc": "Buy apikey >> wa.me/6283170213967"          
+          "innerDesc": "Buy apikey >> wa.me/6289514579847"          
         },
         {
           "name": "Cek Saldo",
           "desc": "/orderkuota/ceksaldo?apikey=&merchant=&keyorkut=", 
           "path": "/orderkuota/ceksaldo?apikey=&merchant=&keyorkut=", 
-          "innerDesc": "Buy apikey >> wa.me/6283170213967"
+          "innerDesc": "Buy apikey >> wa.me/6289514579847"
         }
       ]
     },    
